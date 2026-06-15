@@ -1,0 +1,18 @@
+﻿namespace AppJogoDaVelha
+{
+    public partial class App : Application
+    {
+        public App()
+        {
+            InitializeComponent();
+        }
+
+        protected override Window CreateWindow(IActivationState? activationState)
+        {
+            var window = new Window(new AppShell());
+            window.Width = 360;
+            window.Height = 435;
+            return window;
+        }
+    }
+}
