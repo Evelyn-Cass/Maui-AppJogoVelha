@@ -2,12 +2,6 @@
 
 A modern, cross-platform Tic-Tac-Toe game built with .NET MAUI. Play against a friend on Android, iOS, Windows, or macOS with a clean and intuitive interface.
 
-## 📱 Screenshots
-
-| Game Board | Win Dialog | Draw |
-|------------|------------|------|
-| ![Game Board](screenshots/gameboard.png) | ![Win Dialog](screenshots/win.png) | ![Draw](screenshots/draw.png) |
-
 ## ✨ Features
 
 - 🎯 **Two-player gameplay** - Pass and play with a friend
