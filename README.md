@@ -21,5 +21,5 @@ A modern, cross-platform Tic-Tac-Toe game built with .NET MAUI. Play against a f
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/jogo-da-velha-maui.git
+git clone https://github.com/Evelyn-Cass/Maui-AppJogoVelha.git
 cd jogo-da-velha-maui
